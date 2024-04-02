@@ -56,14 +56,29 @@ function extractFromSource (sourceCode: string, filePath: string)
                     };
                     currentFunction.assertions.push(currentFuncAssert);
                 }
-                if (currentTest && path.node.type === 'MemberExpression' && ["expect", "assert"].includes(path.node.object?.callee?.name)) 
-                { // Adjust above parameters
-                    const currentTestAssert = {
-                        identifier: path.node.object?.callee?.name,
-                        isFileSnapshot: path.node.property && path.node.property.type === 'Identifier' && path.node.property.name === 'toMatchSnapshot',
-                        isInlineSnapshot: path.node.property && path.node.property.type === 'Identifier' && path.node.property.name === 'toMatchInlineSnapshot',
-                    };
-                    currentTest.assertions.push(currentTestAssert);
+                if (currentTest) {
+                    let currentTestAssert = null;
+                
+                    // Scenario 1: Handling MemberExpression specifically (original scenario) expect().toBe()
+                    if (path.node.type === 'MemberExpression' && ["expect", "assert"].includes(path.node.object?.callee?.name)) {
+                        currentTestAssert = {
+                            identifier: path.node.object?.callee?.name,
+                            isFileSnapshot: path.node.property && path.node.property.type === 'Identifier' && path.node.property.name === 'toMatchSnapshot',
+                            isInlineSnapshot: path.node.property && path.node.property.type === 'Identifier' && path.node.property.name === 'toMatchInlineSnapshot',
+                        };
+                    }
+                    // Scenario 2: Direct CallExpression without MemberExpression expect(true)
+                    else if (path.node.type === 'CallExpression' && ["expect", "assert"].includes(path.node.callee.name) && !path.parentPath.isMemberExpression()) {
+                        currentTestAssert = {
+                            identifier: path.node.callee.name,
+                            isFileSnapshot: false,
+                            isInlineSnapshot: false,
+                        };
+                    }
+                
+                    if (currentTestAssert) {
+                        currentTest.assertions.push(currentTestAssert);
+                    }
                 }
             },
             exit(path: any) 
