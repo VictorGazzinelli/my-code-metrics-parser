@@ -1,0 +1,32 @@
+{
+  "name": "my-code-metrics-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js",
+    "pretest": "node tests/preprocess.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/adm-zip": "^0.5.5",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.12.2",
+    "csv-parser": "^3.0.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "@babel/core": "^7.24.3",
+    "@babel/parser": "^7.24.1",
+    "@babel/traverse": "^7.24.1",
+    "adm-zip": "^0.5.12",
+    "cockatiel": "^3.1.2",
+    "rimraf": "^5.0.5"
+  }
+}

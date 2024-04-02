@@ -1,0 +1,1802 @@
+[
+  {
+    "name": "agraboso/redux-api-middleware",
+    "testMethods": "99",
+    "snapshotTestMethods": "58",
+    "assertions": "126",
+    "snapshotAssertions": "62",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "airbnb/react-sketchapp",
+    "testMethods": "135",
+    "snapshotTestMethods": "50",
+    "assertions": "232",
+    "snapshotAssertions": "50",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "aksonov/react-native-router-flux",
+    "testMethods": "5",
+    "snapshotTestMethods": "3",
+    "assertions": "3",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "alexkuz/react-input-enhancements",
+    "testMethods": "12",
+    "snapshotTestMethods": "12",
+    "assertions": "12",
+    "snapshotAssertions": "12",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "algolia/places",
+    "testMethods": "136",
+    "snapshotTestMethods": "3",
+    "assertions": "271",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "algolia/react-instantsearch",
+    "testMethods": "1494",
+    "snapshotTestMethods": "332",
+    "assertions": "2992",
+    "snapshotAssertions": "367",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "anthonyjgrove/react-google-login",
+    "testMethods": "48",
+    "snapshotTestMethods": "24",
+    "assertions": "48",
+    "snapshotAssertions": "24",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "arackaf/customize-cra",
+    "testMethods": "52",
+    "snapshotTestMethods": "39",
+    "assertions": "72",
+    "snapshotAssertions": "39",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "arqex/react-datetime",
+    "testMethods": "147",
+    "snapshotTestMethods": "25",
+    "assertions": "320",
+    "snapshotAssertions": "25",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "atomiks/tippyjs-react",
+    "testMethods": "37",
+    "snapshotTestMethods": "4",
+    "assertions": "68",
+    "snapshotAssertions": "5",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "atomiks/tippyjs",
+    "testMethods": "299",
+    "snapshotTestMethods": "11",
+    "assertions": "531",
+    "snapshotAssertions": "11",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "awslabs/diagram-maker",
+    "testMethods": "699",
+    "snapshotTestMethods": "91",
+    "assertions": "785",
+    "snapshotAssertions": "91",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "babel/minify",
+    "testMethods": "42",
+    "snapshotTestMethods": "18",
+    "assertions": "51",
+    "snapshotAssertions": "20",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "balajmarius/svg2jsx",
+    "testMethods": "15",
+    "snapshotTestMethods": "15",
+    "assertions": "40",
+    "snapshotAssertions": "15",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "bartonhammond/snowflake",
+    "testMethods": "85",
+    "snapshotTestMethods": "7",
+    "assertions": "137",
+    "snapshotAssertions": "7",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "beefe/react-native-actionsheet",
+    "testMethods": "3",
+    "snapshotTestMethods": "2",
+    "assertions": "3",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "birkir/prime",
+    "testMethods": "111",
+    "snapshotTestMethods": "1",
+    "assertions": "150",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "blocks/blocks",
+    "testMethods": "52",
+    "snapshotTestMethods": "1",
+    "assertions": "65",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "boostio/boostnote-legacy",
+    "testMethods": "134",
+    "snapshotTestMethods": "19",
+    "assertions": "314",
+    "snapshotAssertions": "21",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "boostio/boostnote",
+    "testMethods": "134",
+    "snapshotTestMethods": "19",
+    "assertions": "314",
+    "snapshotAssertions": "21",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "bottenderjs/messaging-apis",
+    "testMethods": "681",
+    "snapshotTestMethods": "4",
+    "assertions": "1381",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "brh55/react-native-masonry",
+    "testMethods": "6",
+    "snapshotTestMethods": "1",
+    "assertions": "13",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "buildo/react-placeholder",
+    "testMethods": "27",
+    "snapshotTestMethods": "27",
+    "assertions": "53",
+    "snapshotAssertions": "31",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "cacjs/cac",
+    "testMethods": "10",
+    "snapshotTestMethods": "1",
+    "assertions": "15",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "caiogondim/logdown.js",
+    "testMethods": "81",
+    "snapshotTestMethods": "3",
+    "assertions": "122",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "callstack/haul",
+    "testMethods": "76",
+    "snapshotTestMethods": "12",
+    "assertions": "262",
+    "snapshotAssertions": "12",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "carbon-design-system/carbon-components-react",
+    "testMethods": "1120",
+    "snapshotTestMethods": "80",
+    "assertions": "1534",
+    "snapshotAssertions": "91",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "casesandberg/react-color",
+    "testMethods": "121",
+    "snapshotTestMethods": "59",
+    "assertions": "180",
+    "snapshotAssertions": "59",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "casesandberg/reactcss",
+    "testMethods": "21",
+    "snapshotTestMethods": "3",
+    "assertions": "22",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "clintonwoo/hackernews-react-graphql",
+    "testMethods": "64",
+    "snapshotTestMethods": "5",
+    "assertions": "65",
+    "snapshotAssertions": "5",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "cloud-annotations/cloud-annotations",
+    "testMethods": "9",
+    "snapshotTestMethods": "7",
+    "assertions": "16",
+    "snapshotAssertions": "14",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "cloudflare/cf-ui",
+    "testMethods": "274",
+    "snapshotTestMethods": "176",
+    "assertions": "464",
+    "snapshotAssertions": "299",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "coryhouse/react-slingshot",
+    "testMethods": "64",
+    "snapshotTestMethods": "2",
+    "assertions": "83",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "css-modules/postcss-modules",
+    "testMethods": "15",
+    "snapshotTestMethods": "5",
+    "assertions": "19",
+    "snapshotAssertions": "6",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "ctrlplusb/react-universally",
+    "testMethods": "22",
+    "snapshotTestMethods": "4",
+    "assertions": "23",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "cwise89/react-detect-offline",
+    "testMethods": "13",
+    "snapshotTestMethods": "6",
+    "assertions": "14",
+    "snapshotAssertions": "6",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "denisraslov/react-spreadsheet-grid",
+    "testMethods": "14",
+    "snapshotTestMethods": "14",
+    "assertions": "14",
+    "snapshotAssertions": "14",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "didierfranc/react-waterfall",
+    "testMethods": "7",
+    "snapshotTestMethods": "2",
+    "assertions": "12",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "egoist/bili",
+    "testMethods": "1",
+    "snapshotTestMethods": "1",
+    "assertions": "1",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "elderjs/elderjs",
+    "testMethods": "237",
+    "snapshotTestMethods": "24",
+    "assertions": "390",
+    "snapshotAssertions": "29",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "elemefe/element-react",
+    "testMethods": "98",
+    "snapshotTestMethods": "2",
+    "assertions": "218",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "facebookarchive/rebound-js",
+    "testMethods": "20",
+    "snapshotTestMethods": "2",
+    "assertions": "41",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "faceyspacey/react-universal-component",
+    "testMethods": "65",
+    "snapshotTestMethods": "24",
+    "assertions": "147",
+    "snapshotAssertions": "61",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "faceyspacey/redux-first-router",
+    "testMethods": "95",
+    "snapshotTestMethods": "20",
+    "assertions": "219",
+    "snapshotAssertions": "22",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "fredkschott/snowpack",
+    "testMethods": "273",
+    "snapshotTestMethods": "37",
+    "assertions": "451",
+    "snapshotAssertions": "51",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "fuse-box/fuse-box",
+    "testMethods": "737",
+    "snapshotTestMethods": "286",
+    "assertions": "991",
+    "snapshotAssertions": "286",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "gaearon/react-hot-loader",
+    "testMethods": "208",
+    "snapshotTestMethods": "2",
+    "assertions": "676",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "geekyants/react-native-easy-grid",
+    "testMethods": "3",
+    "snapshotTestMethods": "3",
+    "assertions": "3",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "gielcobben/caption",
+    "testMethods": "7",
+    "snapshotTestMethods": "7",
+    "assertions": "7",
+    "snapshotAssertions": "7",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "googlechromelabs/prerender-loader",
+    "testMethods": "11",
+    "snapshotTestMethods": "7",
+    "assertions": "26",
+    "snapshotAssertions": "7",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "googlechromelabs/size-plugin",
+    "testMethods": "6",
+    "snapshotTestMethods": "6",
+    "assertions": "15",
+    "snapshotAssertions": "6",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "gothinkster/vue-realworld-example-app",
+    "testMethods": "19",
+    "snapshotTestMethods": "1",
+    "assertions": "27",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "gqless/gqless",
+    "testMethods": "149",
+    "snapshotTestMethods": "46",
+    "assertions": "608",
+    "snapshotAssertions": "91",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "graphql-compose/graphql-compose",
+    "testMethods": "972",
+    "snapshotTestMethods": "6",
+    "assertions": "2610",
+    "snapshotAssertions": "7",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "greenkeeperio/greenkeeper",
+    "testMethods": "455",
+    "snapshotTestMethods": "49",
+    "assertions": "1878",
+    "snapshotAssertions": "68",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "gridsome/gridsome",
+    "testMethods": "487",
+    "snapshotTestMethods": "26",
+    "assertions": "1718",
+    "snapshotAssertions": "27",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "haroenv/holmes",
+    "testMethods": "40",
+    "snapshotTestMethods": "1",
+    "assertions": "46",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "hiroppy/fusuma",
+    "testMethods": "27",
+    "snapshotTestMethods": "27",
+    "assertions": "30",
+    "snapshotAssertions": "30",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "hospitalrun/hospitalrun-frontend",
+    "testMethods": "760",
+    "snapshotTestMethods": "2",
+    "assertions": "1539",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "hql287/manta",
+    "testMethods": "375",
+    "snapshotTestMethods": "17",
+    "assertions": "709",
+    "snapshotAssertions": "17",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "hyperfuse/react-anime",
+    "testMethods": "1",
+    "snapshotTestMethods": "1",
+    "assertions": "1",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "interactivethings/catalog",
+    "testMethods": "105",
+    "snapshotTestMethods": "14",
+    "assertions": "129",
+    "snapshotAssertions": "14",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "iodide-project/iodide",
+    "testMethods": "337",
+    "snapshotTestMethods": "1",
+    "assertions": "528",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "jacklam718/react-native-modals",
+    "testMethods": "8",
+    "snapshotTestMethods": "8",
+    "assertions": "24",
+    "snapshotAssertions": "24",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "jamiebuilds/react-loadable",
+    "testMethods": "14",
+    "snapshotTestMethods": "14",
+    "assertions": "30",
+    "snapshotAssertions": "30",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "jaredpalmer/razzle",
+    "testMethods": "129",
+    "snapshotTestMethods": "2",
+    "assertions": "202",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "jiayihu/pretty-algorithms",
+    "testMethods": "55",
+    "snapshotTestMethods": "4",
+    "assertions": "78",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "johnagan/clean-webpack-plugin",
+    "testMethods": "43",
+    "snapshotTestMethods": "1",
+    "assertions": "136",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "jondot/react-flight",
+    "testMethods": "1",
+    "snapshotTestMethods": "1",
+    "assertions": "3",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "juliomrqz/statusfy",
+    "testMethods": "25",
+    "snapshotTestMethods": "8",
+    "assertions": "61",
+    "snapshotAssertions": "11",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "jxnblk/mdx-deck",
+    "testMethods": "26",
+    "snapshotTestMethods": "9",
+    "assertions": "29",
+    "snapshotAssertions": "9",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "kactus-io/kactus",
+    "testMethods": "705",
+    "snapshotTestMethods": "4",
+    "assertions": "1678",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "kaimallea/ismobile",
+    "testMethods": "210",
+    "snapshotTestMethods": "2",
+    "assertions": "210",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "kefranabg/readme-md-generator",
+    "testMethods": "104",
+    "snapshotTestMethods": "2",
+    "assertions": "148",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "kentcdodds/testing-workshop",
+    "testMethods": "134",
+    "snapshotTestMethods": "22",
+    "assertions": "324",
+    "snapshotAssertions": "26",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "kidjp85/react-id-swiper",
+    "testMethods": "40",
+    "snapshotTestMethods": "24",
+    "assertions": "51",
+    "snapshotAssertions": "24",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "kolodny/immutability-helper",
+    "testMethods": "82",
+    "snapshotTestMethods": "2",
+    "assertions": "128",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "leandrowd/react-responsive-carousel",
+    "testMethods": "117",
+    "snapshotTestMethods": "17",
+    "assertions": "185",
+    "snapshotAssertions": "17",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "lostpebble/pullstate",
+    "testMethods": "10",
+    "snapshotTestMethods": "4",
+    "assertions": "11",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "mapsplugin/cordova-plugin-googlemaps",
+    "testMethods": "46",
+    "snapshotTestMethods": "7",
+    "assertions": "54",
+    "snapshotAssertions": "8",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "markdalgleish/static-site-generator-webpack-plugin",
+    "testMethods": "2",
+    "snapshotTestMethods": "1",
+    "assertions": "2",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "markusenglund/react-switch",
+    "testMethods": "14",
+    "snapshotTestMethods": "5",
+    "assertions": "17",
+    "snapshotAssertions": "5",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "maronato/vue-toastification",
+    "testMethods": "201",
+    "snapshotTestMethods": "43",
+    "assertions": "457",
+    "snapshotAssertions": "45",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "mateodelnorte/meta",
+    "testMethods": "19",
+    "snapshotTestMethods": "18",
+    "assertions": "20",
+    "snapshotAssertions": "18",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "matvp91/indigo-player",
+    "testMethods": "21",
+    "snapshotTestMethods": "1",
+    "assertions": "43",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "maxchehab/phelia",
+    "testMethods": "105",
+    "snapshotTestMethods": "99",
+    "assertions": "110",
+    "snapshotAssertions": "99",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "mengxiong10/vue2-datepicker",
+    "testMethods": "66",
+    "snapshotTestMethods": "12",
+    "assertions": "142",
+    "snapshotAssertions": "12",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "michelebertoli/react-automata",
+    "testMethods": "26",
+    "snapshotTestMethods": "1",
+    "assertions": "37",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "millihq/terraform-aws-next-js",
+    "testMethods": "211",
+    "snapshotTestMethods": "3",
+    "assertions": "660",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "mobxjs/mobx-react-lite",
+    "testMethods": "95",
+    "snapshotTestMethods": "5",
+    "assertions": "289",
+    "snapshotAssertions": "6",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "mobxjs/mobx-react",
+    "testMethods": "106",
+    "snapshotTestMethods": "6",
+    "assertions": "215",
+    "snapshotAssertions": "7",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "mycryptohq/mycrypto",
+    "testMethods": "1160",
+    "snapshotTestMethods": "10",
+    "assertions": "1534",
+    "snapshotAssertions": "10",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "nachos-ui/nachos-ui",
+    "testMethods": "31",
+    "snapshotTestMethods": "31",
+    "assertions": "31",
+    "snapshotAssertions": "31",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "namespace-ee/react-calendar-timeline",
+    "testMethods": "185",
+    "snapshotTestMethods": "16",
+    "assertions": "266",
+    "snapshotAssertions": "16",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "neptunian/react-photo-gallery",
+    "testMethods": "10",
+    "snapshotTestMethods": "2",
+    "assertions": "10",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "netflix/falcor",
+    "testMethods": "447",
+    "snapshotTestMethods": "2",
+    "assertions": "753",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "nitin42/making-a-custom-react-renderer",
+    "testMethods": "2",
+    "snapshotTestMethods": "2",
+    "assertions": "2",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "nitin42/react-imgpro",
+    "testMethods": "4",
+    "snapshotTestMethods": "3",
+    "assertions": "4",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "nitin42/react-perf-devtool",
+    "testMethods": "19",
+    "snapshotTestMethods": "10",
+    "assertions": "19",
+    "snapshotAssertions": "10",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "nitin42/redocx",
+    "testMethods": "52",
+    "snapshotTestMethods": "52",
+    "assertions": "52",
+    "snapshotAssertions": "52",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "nitin42/terminal-in-react",
+    "testMethods": "3",
+    "snapshotTestMethods": "2",
+    "assertions": "3",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "nmfr/optimize-css-assets-webpack-plugin",
+    "testMethods": "5",
+    "snapshotTestMethods": "1",
+    "assertions": "11",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "node-gh/gh",
+    "testMethods": "61",
+    "snapshotTestMethods": "42",
+    "assertions": "70",
+    "snapshotAssertions": "42",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "omgovich/react-colorful",
+    "testMethods": "77",
+    "snapshotTestMethods": "5",
+    "assertions": "130",
+    "snapshotAssertions": "5",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "onivim/oni",
+    "testMethods": "495",
+    "snapshotTestMethods": "17",
+    "assertions": "688",
+    "snapshotAssertions": "17",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "outline/rich-markdown-editor",
+    "testMethods": "37",
+    "snapshotTestMethods": "23",
+    "assertions": "43",
+    "snapshotAssertions": "25",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "pankod/next-boilerplate",
+    "testMethods": "28",
+    "snapshotTestMethods": "7",
+    "assertions": "28",
+    "snapshotAssertions": "7",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "paratron/hookrouter",
+    "testMethods": "8",
+    "snapshotTestMethods": "4",
+    "assertions": "17",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "paularmstrong/normalizr",
+    "testMethods": "71",
+    "snapshotTestMethods": "56",
+    "assertions": "116",
+    "snapshotAssertions": "96",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "paypal/glamorous",
+    "testMethods": "93",
+    "snapshotTestMethods": "39",
+    "assertions": "165",
+    "snapshotAssertions": "50",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "peerigon/updtr",
+    "testMethods": "219",
+    "snapshotTestMethods": "79",
+    "assertions": "325",
+    "snapshotAssertions": "105",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "peggyrayzis/react-native-create-bridge",
+    "testMethods": "36",
+    "snapshotTestMethods": "36",
+    "assertions": "36",
+    "snapshotAssertions": "36",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "phodal/growth",
+    "testMethods": "69",
+    "snapshotTestMethods": "60",
+    "assertions": "74",
+    "snapshotAssertions": "60",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "plus1tv/react-anime",
+    "testMethods": "4",
+    "snapshotTestMethods": "4",
+    "assertions": "4",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "prettier/tslint-config-prettier",
+    "testMethods": "6",
+    "snapshotTestMethods": "6",
+    "assertions": "12",
+    "snapshotAssertions": "6",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "produck/svg-captcha",
+    "testMethods": "17",
+    "snapshotTestMethods": "4",
+    "assertions": "26",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "pugjs/pug",
+    "testMethods": "206",
+    "snapshotTestMethods": "23",
+    "assertions": "369",
+    "snapshotAssertions": "25",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "qrohlf/trianglify",
+    "testMethods": "27",
+    "snapshotTestMethods": "4",
+    "assertions": "45",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "rahuldkjain/github-profile-readme-generator",
+    "testMethods": "78",
+    "snapshotTestMethods": "60",
+    "assertions": "100",
+    "snapshotAssertions": "60",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "raphamorim/react-ape",
+    "testMethods": "30",
+    "snapshotTestMethods": "4",
+    "assertions": "87",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "rcaferati/react-awesome-button",
+    "testMethods": "6",
+    "snapshotTestMethods": "4",
+    "assertions": "4",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "rcaferati/react-native-really-awesome-button",
+    "testMethods": "10",
+    "snapshotTestMethods": "2",
+    "assertions": "14",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "reach/router",
+    "testMethods": "79",
+    "snapshotTestMethods": "7",
+    "assertions": "68",
+    "snapshotAssertions": "7",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "react-boilerplate/react-boilerplate-cra-template",
+    "testMethods": "99",
+    "snapshotTestMethods": "27",
+    "assertions": "128",
+    "snapshotAssertions": "27",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "react-boilerplate/react-boilerplate",
+    "testMethods": "293",
+    "snapshotTestMethods": "20",
+    "assertions": "356",
+    "snapshotAssertions": "20",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "react-bootstrap-table/react-bootstrap-table2",
+    "testMethods": "736",
+    "snapshotTestMethods": "2",
+    "assertions": "1376",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "react-dropzone/react-dropzone",
+    "testMethods": "141",
+    "snapshotTestMethods": "1",
+    "assertions": "400",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "react-ga/react-ga",
+    "testMethods": "128",
+    "snapshotTestMethods": "1",
+    "assertions": "307",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "react-materialize/react-materialize",
+    "testMethods": "227",
+    "snapshotTestMethods": "104",
+    "assertions": "278",
+    "snapshotAssertions": "105",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "react-native-community/releases",
+    "testMethods": "7",
+    "snapshotTestMethods": "1",
+    "assertions": "9",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "reactjsresources/react-webpack-babel",
+    "testMethods": "1",
+    "snapshotTestMethods": "1",
+    "assertions": "1",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "rebassjs/grid",
+    "testMethods": "13",
+    "snapshotTestMethods": "13",
+    "assertions": "24",
+    "snapshotAssertions": "13",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "rebassjs/rebass",
+    "testMethods": "46",
+    "snapshotTestMethods": "10",
+    "assertions": "82",
+    "snapshotAssertions": "10",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "risingstack/react-easy-state",
+    "testMethods": "69",
+    "snapshotTestMethods": "9",
+    "assertions": "191",
+    "snapshotAssertions": "27",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "rnosov/react-reveal",
+    "testMethods": "22",
+    "snapshotTestMethods": "22",
+    "assertions": "22",
+    "snapshotAssertions": "22",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "rubylouvre/anu",
+    "testMethods": "832",
+    "snapshotTestMethods": "2",
+    "assertions": "1788",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "salesforce-ux/theo",
+    "testMethods": "88",
+    "snapshotTestMethods": "29",
+    "assertions": "97",
+    "snapshotAssertions": "29",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "samdenty/gqless",
+    "testMethods": "149",
+    "snapshotTestMethods": "46",
+    "assertions": "608",
+    "snapshotAssertions": "91",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "scullyio/scully",
+    "testMethods": "127",
+    "snapshotTestMethods": "12",
+    "assertions": "164",
+    "snapshotAssertions": "15",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "seatgeek/react-infinite",
+    "testMethods": "92",
+    "snapshotTestMethods": "20",
+    "assertions": "138",
+    "snapshotAssertions": "22",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "seek-oss/treat",
+    "testMethods": "64",
+    "snapshotTestMethods": "55",
+    "assertions": "71",
+    "snapshotAssertions": "55",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "serverless-nextjs/serverless-next.js",
+    "testMethods": "1093",
+    "snapshotTestMethods": "23",
+    "assertions": "1538",
+    "snapshotAssertions": "23",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "shipitjs/shipit",
+    "testMethods": "145",
+    "snapshotTestMethods": "3",
+    "assertions": "265",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "shopify/slate",
+    "testMethods": "128",
+    "snapshotTestMethods": "4",
+    "assertions": "190",
+    "snapshotAssertions": "9",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "snowpackjs/snowpack",
+    "testMethods": "273",
+    "snapshotTestMethods": "37",
+    "assertions": "451",
+    "snapshotAssertions": "51",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "sokra/rawact",
+    "testMethods": "17",
+    "snapshotTestMethods": "17",
+    "assertions": "20",
+    "snapshotAssertions": "20",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "souporserious/react-measure",
+    "testMethods": "7",
+    "snapshotTestMethods": "2",
+    "assertions": "18",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "sparkpost/heml",
+    "testMethods": "1",
+    "snapshotTestMethods": "1",
+    "assertions": "1",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "ssense/vue-carousel",
+    "testMethods": "109",
+    "snapshotTestMethods": "33",
+    "assertions": "160",
+    "snapshotAssertions": "33",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "stereobooster/react-snap",
+    "testMethods": "52",
+    "snapshotTestMethods": "1",
+    "assertions": "91",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "storybookjs/react-treebeard",
+    "testMethods": "17",
+    "snapshotTestMethods": "1",
+    "assertions": "17",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "streamich/libreact",
+    "testMethods": "174",
+    "snapshotTestMethods": "19",
+    "assertions": "270",
+    "snapshotAssertions": "19",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "styled-components/styled-theming",
+    "testMethods": "6",
+    "snapshotTestMethods": "2",
+    "assertions": "16",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "styled-system/styled-system",
+    "testMethods": "161",
+    "snapshotTestMethods": "4",
+    "assertions": "181",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "supasate/connected-react-router",
+    "testMethods": "53",
+    "snapshotTestMethods": "2",
+    "assertions": "76",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "tailwindlabs/tailwindcss-custom-forms",
+    "testMethods": "27",
+    "snapshotTestMethods": "27",
+    "assertions": "27",
+    "snapshotAssertions": "27",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "taskrabbit/react-native-parsed-text",
+    "testMethods": "15",
+    "snapshotTestMethods": "8",
+    "assertions": "30",
+    "snapshotAssertions": "11",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "trivago/parallel-webpack",
+    "testMethods": "60",
+    "snapshotTestMethods": "5",
+    "assertions": "58",
+    "snapshotAssertions": "5",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "trojanowski/react-apollo-hooks",
+    "testMethods": "49",
+    "snapshotTestMethods": "31",
+    "assertions": "160",
+    "snapshotAssertions": "63",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "vagr9k/gatsby-advanced-starter",
+    "testMethods": "132",
+    "snapshotTestMethods": "36",
+    "assertions": "274",
+    "snapshotAssertions": "43",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "vitalets/react-native-extended-stylesheet",
+    "testMethods": "91",
+    "snapshotTestMethods": "1",
+    "assertions": "146",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "vkbansal/react-contextmenu",
+    "testMethods": "17",
+    "snapshotTestMethods": "2",
+    "assertions": "46",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "vsmode/pixel8",
+    "testMethods": "7",
+    "snapshotTestMethods": "2",
+    "assertions": "19",
+    "snapshotAssertions": "3",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "vuedx/languagetools",
+    "testMethods": "183",
+    "snapshotTestMethods": "6",
+    "assertions": "521",
+    "snapshotAssertions": "8",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "wasdk/webassemblystudio",
+    "testMethods": "834",
+    "snapshotTestMethods": "13",
+    "assertions": "1778",
+    "snapshotAssertions": "13",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "webpack-contrib/extract-text-webpack-plugin",
+    "testMethods": "21",
+    "snapshotTestMethods": "1",
+    "assertions": "22",
+    "snapshotAssertions": "1",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "webpack-contrib/file-loader",
+    "testMethods": "52",
+    "snapshotTestMethods": "41",
+    "assertions": "164",
+    "snapshotAssertions": "141",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "webpack-contrib/install-webpack-plugin",
+    "testMethods": "67",
+    "snapshotTestMethods": "19",
+    "assertions": "142",
+    "snapshotAssertions": "19",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "webpack-contrib/uglifyjs-webpack-plugin",
+    "testMethods": "87",
+    "snapshotTestMethods": "84",
+    "assertions": "349",
+    "snapshotAssertions": "252",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "webpack-contrib/url-loader",
+    "testMethods": "67",
+    "snapshotTestMethods": "63",
+    "assertions": "241",
+    "snapshotAssertions": "234",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "webpack-contrib/webpack-serve",
+    "testMethods": "83",
+    "snapshotTestMethods": "64",
+    "assertions": "124",
+    "snapshotAssertions": "80",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "webpack-contrib/worker-loader",
+    "testMethods": "48",
+    "snapshotTestMethods": "46",
+    "assertions": "224",
+    "snapshotAssertions": "168",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "webpack/tapable",
+    "testMethods": "50",
+    "snapshotTestMethods": "19",
+    "assertions": "128",
+    "snapshotAssertions": "28",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "wellyshen/react-cool-starter",
+    "testMethods": "30",
+    "snapshotTestMethods": "15",
+    "assertions": "32",
+    "snapshotAssertions": "15",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "withastro/snowpack",
+    "testMethods": "273",
+    "snapshotTestMethods": "37",
+    "assertions": "451",
+    "snapshotAssertions": "51",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "1"
+  },
+  {
+    "name": "wolox/react-chat-widget",
+    "testMethods": "13",
+    "snapshotTestMethods": "2",
+    "assertions": "13",
+    "snapshotAssertions": "2",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "xotahal/react-native-material-ui",
+    "testMethods": "28",
+    "snapshotTestMethods": "25",
+    "assertions": "37",
+    "snapshotAssertions": "25",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "yiminghe/async-validator",
+    "testMethods": "98",
+    "snapshotTestMethods": "7",
+    "assertions": "194",
+    "snapshotAssertions": "8",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  },
+  {
+    "name": "yoctol/messaging-apis",
+    "testMethods": "681",
+    "snapshotTestMethods": "4",
+    "assertions": "1381",
+    "snapshotAssertions": "4",
+    "hasOnlyFileST": "1",
+    "hasOnlyInlineST": "0",
+    "hasBothST": "0"
+  },
+  {
+    "name": "znck/vue-developer-experience",
+    "testMethods": "139",
+    "snapshotTestMethods": "48",
+    "assertions": "299",
+    "snapshotAssertions": "48",
+    "hasOnlyFileST": "0",
+    "hasOnlyInlineST": "1",
+    "hasBothST": "0"
+  }
+]
