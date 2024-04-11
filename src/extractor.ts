@@ -123,9 +123,11 @@ function extractFromSource (sourceCode: string, filePath: string)
             },
         });
     }
-    catch(error)
+    catch(error: any)
     {
-        console.error(`Error processing file: ${filePath}`, error);
+        console.error("Failed to process file: " + filePath);
+        console.error("Error type: " + error.name);
+        console.error("Error message: " + error.message);
     }
   
     return testMethods;
