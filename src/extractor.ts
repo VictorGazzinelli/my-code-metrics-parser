@@ -21,6 +21,19 @@ function getPlugins (filePath: string): any[]
             "vue-jsx", // Support for JSX in Vue
             "explicitResourceManagement", // Support for managing resources explicitly
         ]
+        if(filePath.includes('react-grid-layout_react-resizable'))
+            return [
+                "jsx",
+                //"typescript",
+                "decorators-legacy",
+                "classProperties",
+                "explicitResourceManagement",
+                "importAssertions",
+                //@ts-ignore
+                "vue-jsx",
+                ["optionalChainingAssign", { version: "2023-07" }],
+                "flow"
+            ]
     return [
         "jsx",
         "typescript",

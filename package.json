@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
-    "start": "node dist/app.js",
+    "start": "tsc && node dist/app.js",
     "pretest": "node tests/preprocess.js",
     "test": "jest --json --outputFile=output.json || (exit 0)",
     "posttest": "node tests/postprocess.js"
