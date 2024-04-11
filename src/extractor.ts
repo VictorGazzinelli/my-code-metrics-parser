@@ -4,6 +4,36 @@ import traverse from '@babel/traverse';
 import { getTestFiles, readFile } from "./fileSystem";
 import { Func, Metrics, Test } from "./interfaces";
 
+function getPlugins (filePath: string): any[]
+{
+    if(filePath.includes('kaorun343_vue-property-decorator'))
+        return [
+            "typescript", // TypeScript support
+            ["decorators", { decoratorsBeforeExport: true }], // Decorators, legacy configuration is preferred here
+            "classProperties", // Support for class properties
+            "optionalChaining", // Optional chaining (?. operator)
+            //@ts-ignore
+            "vue", // Vue support
+            "importAssertions", // Import assertions (for module imports)
+            "jsx", // JSX support
+            ["optionalChainingAssign", { version: "2023-07" }], // Optional chaining assignment with specific version configuration
+            //@ts-ignore
+            "vue-jsx", // Support for JSX in Vue
+            "explicitResourceManagement", // Support for managing resources explicitly
+        ]
+    return [
+        "jsx",
+        "typescript",
+        "decorators-legacy",
+        "classProperties",
+        "explicitResourceManagement",
+        "importAssertions",
+        //@ts-ignore
+        "vue-jsx",
+        ["optionalChainingAssign", { version: "2023-07" }],
+    ]
+}
+
 function extractFromSource (sourceCode: string, filePath: string) 
 {
     const testMethods: Test[] = [];
@@ -12,18 +42,9 @@ function extractFromSource (sourceCode: string, filePath: string)
     {
         const ast = parser.parse(sourceCode, {
             sourceType: 'module', // Assuming ES modules, change as needed
-            plugins: [
-                "jsx",
-                "typescript",
-                "decorators-legacy",
-                "classProperties",
-                "explicitResourceManagement",
-                "importAssertions",
-                //@ts-ignore
-                "vue-jsx",
-                ["optionalChainingAssign", { version: "2023-07" }],
-            ]
+            plugins: getPlugins(filePath)
         });
+        
         let currentTest: Test | null = null;
         let currentFunction: Func | null = null;
         traverse(ast, {
@@ -104,8 +125,7 @@ function extractFromSource (sourceCode: string, filePath: string)
     }
     catch(error)
     {
-        // console.error(filePath)
-        // console.error(error)
+        console.error(`Error processing file: ${filePath}`, error);
     }
   
     return testMethods;
